@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🌱 I’m currently working as a fullstack web development in DigitalMix
+- 🌱 I’m currently working as a fullstack web developer in DigitalMix.
 - 📫 How to reach me: guido.maimone7@gmail.com
 - ⚡ Fun fact: I love game design. Currently I am learning Unity, and I adore both programming, and designing mechanics and levels for games! I also love participating in Game Jams.
 <!--
